@@ -1,0 +1,85 @@
+body{
+	color : white;
+	margin : 0px;
+	padding : 0px;
+}
+reg {
+	color: white;
+}
+
+
+.button {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 8px 8px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.button2 {
+	background-color: #008CBA;
+	margin-left: 200px;
+} /* Blue */
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url("images/background.jpg");
+	background-size: 1400px;
+	font-family: "Times New Roman"
+}
+
+input[type="text"] {
+	font-family: Arial;
+	font-size: 25px;
+	border-radius: 9px;
+	opacity : 0.8;
+	}
+
+input[type="list"] {
+	font-family: Arial;
+	font-size: 25px;
+	border-radius: 9px;
+	opacity : 0.8;
+	
+}
+
+input[type="password"] {
+	font-family: Arial;
+	font-size: 25px;
+	border-radius: 9px;
+	opacity : 0.8;
+	
+}
+
+input[type="date"] {
+	font-family: Arial;
+	font-size: 23px;
+	border-radius: 9px;
+	opacity : 0.8;
+	
+}
+
+select {
+	font-family: Arial-Black;
+	font-size: 25px;
+	border-radius: 9px;
+	opacity : 0.8;
+	
+}
+
+select:invalid {
+	color: gray;
+	opacity : 0.8;
+	
+}
+
+.content {
+	margin-top: 75px;
+	margin-left : 50px;
+	color : white;
+}
